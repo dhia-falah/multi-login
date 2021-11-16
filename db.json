@@ -1,0 +1,34 @@
+{
+  "useres": [
+    {
+      "id": 0,
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": 1,
+      "username": "siswa",
+      "password": "1234",
+      "role": "siswa"
+    },
+    {
+      "id": 2,
+      "username": "guru",
+      "password": "12345",
+      "role": "guru"
+    },
+    {
+      "username": "dhia",
+      "password": "4567",
+      "role": "siswa",
+      "id": 3
+    },
+    {
+      "username": "layla",
+      "password": "1234567",
+      "role": "siswa",
+      "id": 4
+    }
+  ]
+}
